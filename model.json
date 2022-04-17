@@ -1,0 +1,12 @@
+{
+    "definitions": {
+      "myNote": "kjzl6cwe1jw145a8rcoo8y9c1jtwa71cc33vvz7gqah1tg4dvoxkd62u8mzbz4d"
+    },
+    "schemas": {
+      "SimpleNote": "ceramic://k3y52l7qbv1frxtwv4ip9pdwe6vh3dh13rs0ynh4pwwqo7usnudlsvgm8w2gl4xz4"
+    },
+    "tiles": {
+      "exampleNote": "kjzl6cwe1jw149ymdkfpkmf0ighksbfxfgt6bm4ut45mapn87a4wm9nkf7xouzg"
+    }
+  }
+  
